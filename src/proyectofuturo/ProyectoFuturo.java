@@ -2,7 +2,7 @@ package proyectofuturo;
 
 /**
  *
- * @author James Lomax
+ * @author James Lomax (mi nombre es James, ya tenía puesto mi nombre desde el principio)
  */
 public class ProyectoFuturo {
 
